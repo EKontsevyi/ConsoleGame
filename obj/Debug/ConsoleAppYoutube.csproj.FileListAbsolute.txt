@@ -1,0 +1,8 @@
+C:\Users\flexi\source\repos\ConsoleAppYoutube\ConsoleAppYoutube\bin\Debug\ConsoleAppYoutube.exe.config
+C:\Users\flexi\source\repos\ConsoleAppYoutube\ConsoleAppYoutube\bin\Debug\ConsoleAppYoutube.exe
+C:\Users\flexi\source\repos\ConsoleAppYoutube\ConsoleAppYoutube\bin\Debug\ConsoleAppYoutube.pdb
+C:\Users\flexi\source\repos\ConsoleAppYoutube\ConsoleAppYoutube\obj\Debug\ConsoleAppYoutube.csproj.AssemblyReference.cache
+C:\Users\flexi\source\repos\ConsoleAppYoutube\ConsoleAppYoutube\obj\Debug\ConsoleAppYoutube.csproj.SuggestedBindingRedirects.cache
+C:\Users\flexi\source\repos\ConsoleAppYoutube\ConsoleAppYoutube\obj\Debug\ConsoleAppYoutube.csproj.CoreCompileInputs.cache
+C:\Users\flexi\source\repos\ConsoleAppYoutube\ConsoleAppYoutube\obj\Debug\ConsoleAppYoutube.exe
+C:\Users\flexi\source\repos\ConsoleAppYoutube\ConsoleAppYoutube\obj\Debug\ConsoleAppYoutube.pdb
